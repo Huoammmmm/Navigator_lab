@@ -1,16 +1,4 @@
-# navigation_codelab
+To start the flutter app, open your project in your preferred ide and in the terminal enter the command flutter run to start our project up, or you can open your 
+terminal and navigate to the flutter project directory and run the app using the command flutter run.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In this flutter project, when started up you will be greeted with the first screen page, in the first screen page there will be a button to go to the second screen page, and also 2 bottom navbar to navigate to the second screen and so on until the third screen where there will be a different button to navigate back to the first screen along with a bottom navbar to do so
